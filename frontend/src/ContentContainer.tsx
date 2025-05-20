@@ -2,7 +2,7 @@ import './styles/ContentContainer.css';
 function ContentContainer() {
 
   return (
-    <div className="content-container">
+    <div className='content-container'>
         
       
     </div>
