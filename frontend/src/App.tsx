@@ -1,12 +1,13 @@
 import { useState } from 'react'
 import './App.css'
 import ContentContainer from './ContentContainer';
+import StockCompanyPicker from './StockCompanyPicker';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
+      <StockCompanyPicker/>
       <ContentContainer/>
     </>
   )
