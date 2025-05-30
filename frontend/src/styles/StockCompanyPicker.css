@@ -7,6 +7,7 @@
   border-radius: 15px; 
   background-color: #555555; 
   /*margins?*/
+  margin-top: 40px;
 
   display: flex;
   flex-direction: column;
